@@ -1,0 +1,33 @@
+﻿  compilation object save succeeded; see C:\Users\Frappe\OneDrive - Jämtlands Gymnasieförbund\Gym arb\Raster window\x64\Debug\PixelShader.cso
+  compilation object save succeeded; see C:\Users\Frappe\OneDrive - Jämtlands Gymnasieförbund\Gym arb\Raster window\x64\Debug\PixelShaderFlat.cso
+  compilation object save succeeded; see C:\Users\Frappe\OneDrive - Jämtlands Gymnasieförbund\Gym arb\Raster window\x64\Debug\VertexShader.cso
+  compilation object save succeeded; see C:\Users\Frappe\OneDrive - Jämtlands Gymnasieförbund\Gym arb\Raster window\x64\Debug\VertexShaderFlat.cso
+  systemclass.cpp
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\game.h(43): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\systemclass.cpp(21): warning C4101: 'result': unreferenced local variable
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\systemclass.cpp(117): warning C4101: 'result': unreferenced local variable
+  RoomMesh.cpp
+  RoomBlock.cpp
+  Renderer.cpp
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\game.h(43): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  PlayerMesh.cpp
+  PlayerBlock.cpp
+  MeshObject.cpp
+  Material.cpp
+  main.cpp
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\game.h(43): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  GameTimer.cpp
+  GameObject.cpp
+  Game.cpp
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\game.h(43): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\game.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DXBase.cpp
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\dxbase.cpp(23): warning C4101: 'error': unreferenced local variable
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\dxbase.cpp(20): warning C4101: 'stringLength': unreferenced local variable
+  DDSTextureLoader.cpp
+  Controller.cpp
+c:\users\frappe\onedrive - jämtlands gymnasieförbund\gym arb\raster window\raster window\game.h(43): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Camera.cpp
+  Generating Code...
+  Raster window.vcxproj -> C:\Users\Frappe\OneDrive - Jämtlands Gymnasieförbund\Gym arb\Raster window\x64\Debug\Raster window.exe
+  Raster window.vcxproj -> C:\Users\Frappe\OneDrive - Jämtlands Gymnasieförbund\Gym arb\Raster window\x64\Debug\Raster window.pdb (Full PDB)

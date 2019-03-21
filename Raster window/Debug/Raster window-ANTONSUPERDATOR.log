@@ -1,0 +1,20 @@
+﻿  systemclass.cpp
+d:\le fisch\documents\onedrive for business 2\gym arb\raster window\raster window\game.h(42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\le fisch\documents\onedrive for business 2\gym arb\raster window\raster window\systemclass.cpp(21): warning C4101: 'result': unreferenced local variable
+d:\le fisch\documents\onedrive for business 2\gym arb\raster window\raster window\systemclass.cpp(107): warning C4101: 'result': unreferenced local variable
+  main.cpp
+d:\le fisch\documents\onedrive for business 2\gym arb\raster window\raster window\game.h(42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Renderer.cpp
+d:\le fisch\documents\onedrive for business 2\gym arb\raster window\raster window\game.h(42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+d:\le fisch\documents\onedrive for business 2\gym arb\raster window\raster window\game.h(42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\le fisch\documents\onedrive for business 2\gym arb\raster window\raster window\game.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Controller.cpp
+d:\le fisch\documents\onedrive for business 2\gym arb\raster window\raster window\game.h(42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+GameTimer.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'GameTimer.obj' or at 'D:\Le fisch\Documents\OneDrive for Business 2\Gym arb\Raster window\Debug\vc140.pdb'; linking object as if no debug info
+GameObject.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'GameObject.obj' or at 'D:\Le fisch\Documents\OneDrive for Business 2\Gym arb\Raster window\Debug\vc140.pdb'; linking object as if no debug info
+DDSTextureLoader.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'DDSTextureLoader.obj' or at 'D:\Le fisch\Documents\OneDrive for Business 2\Gym arb\Raster window\Debug\vc140.pdb'; linking object as if no debug info
+Camera.obj : warning LNK4099: PDB 'vc140.pdb' was not found with 'Camera.obj' or at 'D:\Le fisch\Documents\OneDrive for Business 2\Gym arb\Raster window\Debug\vc140.pdb'; linking object as if no debug info
+  Raster window.vcxproj -> D:\Le fisch\Documents\OneDrive for Business 2\Gym arb\Raster window\Debug\Raster window.exe
+  Raster window.vcxproj -> D:\Le fisch\Documents\OneDrive for Business 2\Gym arb\Raster window\Debug\Raster window.pdb (Full PDB)
